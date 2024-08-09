@@ -1,6 +1,12 @@
 ### Olá, sou o Joniel Maycon ✋
 
-Atualmente, estudo Data Science, utilizo tecnologias e realizo projetos para resolução de problemas de negócio 📊
+📊 Atualmente, trabalho com análise de dados, estudo técnicas avançadas e desenvolvo projetos focados em:
+
+Aplicações de IA com Python
+Desenvolvimento de Aplicativos Web com Python
+Criação de Dashboards Interativos usando Python
+Data Science e Machine Learning
+Análise de dados utilizando Python 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joniel-maycon-112201254/)
 
