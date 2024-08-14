@@ -2,7 +2,7 @@
 
 📊 Trabalho com Análise de Dados e estudo Data Science, buscando técnicas avançadas. Desenvolvo projetos focados em:
 
-🤖 Aplicações de IA
+🤖 Aplicações de IA\n
 🌐 Desenvolvimento de Aplicativos Web
 📈 Criação de Dashboards Interativos
 📊 Data Science e Machine Learning
