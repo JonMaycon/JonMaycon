@@ -21,4 +21,7 @@ Aplicações de IA  / Desenvolvimento de Aplicativos Web  / Criação de Dashboa
 <img align="center" alt ="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
 <img align="center" alt ="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="Qlik Sense" src="https://img.shields.io/badge/Qlik%20Sense-33CC33?style=for-the-badge&logo=qlik&logoColor=white" />
+<img align="center" alt="Langchain" src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+<img align="center" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img align="center" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=white" />
 </div>
