@@ -1,6 +1,6 @@
 ### Olá, sou o Joniel Maycon ✋
 
-📊 Atualmente, trabalho com análise de dados, estudo técnicas avançadas e desenvolvo projetos focados em:
+📊 Atualmente, trabalho com Análise de Dados, estudo Data Science buscando técnicas avançadas e desenvolvo projetos focados em:
 
 Aplicações de IA  / Desenvolvimento de Aplicativos Web  / Criação de Dashboards Interativos  / Data Science e Machine Learning / Análise de dados utilizando Python 
 
@@ -20,4 +20,5 @@ Aplicações de IA  / Desenvolvimento de Aplicativos Web  / Criação de Dashboa
 <img align="center" alt ="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt ="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
 <img align="center" alt ="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="Qlik Sense" src="https://img.shields.io/badge/Qlik%20Sense-33CC33?style=for-the-badge&logo=qlik&logoColor=white" />
 </div>
