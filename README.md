@@ -1,6 +1,6 @@
 ### Olá, sou o Joniel Maycon ✋
 
-📊 Trabalho com Análise de Dados e estudo Data Science, buscando técnicas avançadas. Desenvolvo projetos focados em:
+📊 Cientista de Dados, especializando em Full Stack em Dados e Analytics de Crédito, Risco e Prevenção à Fraude, desenvolvedor de soluções de Business Intelligence, com experiência em Qlik Sense Analytics, Power BI e Python, arquitetura e modelagem de dados. Capacitado para implementar recursos de BI alinhadas às melhores práticas de Governança de Dados e requisitos de negócio.
 
 🤖 Aplicações de IA
 🌐 Desenvolvimento de Aplicativos Web
