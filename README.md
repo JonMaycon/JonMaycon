@@ -27,4 +27,6 @@
 <img align="center" alt="Langchain" src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
 <img align="center" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img align="center" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="center" alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </div>
