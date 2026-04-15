@@ -1,9 +1,16 @@
 ### Olá, sou o Joniel Maycon ✋
 
-📊 Analista de Dados, especializando em Full Stack em Dados e Analytics de Crédito, Risco e Prevenção à Fraude, desenvolvedor de soluções de Business Intelligence, com experiência em Qlik Sense Analytics, Power BI e Python, arquitetura e modelagem de dados. Capacitado para implementar recursos de BI alinhadas às melhores práticas de Governança de Dados e requisitos de negócio.
+📊 Analista de Dados especializando em Full Stack em Dados e Analytics, atuando na construção de soluções que transformam dados em decisões estratégicas.
+ 
+Tenho experiência no desenvolvimento de pipelines de dados e análises utilizando Python (Pandas e PySpark) e SQL, com foco em performance, escalabilidade e qualidade da informação. Atuo com arquiteturas modernas em cloud e conceitos de Data Lakehouse com Databricks e Apache Spark.
+ 
+Também possuo forte atuação em Business Intelligence, desenvolvendo dashboards e indicadores estratégicos com Power BI e Qlik Sense, aplicando boas práticas de governança de dados e definição de KPIs e OKRs.
+ 
+Além disso, desenvolvo soluções com Inteligência Artificial voltadas à automação de processos e tomada de decisão, incluindo criação de agentes inteligentes, integração com APIs e orquestração de fluxos com n8n e engenharia de prompt.
+ 
+Tenho como foco criar soluções escaláveis, eficientes e orientadas a valor de negócio, conectando dados, tecnologia e estratégia.
 
 🤖 Aplicações de IA
-🌐 Desenvolvimento de Aplicativos Web
 📈 Criação de Dashboards Interativos
 📊 Data Science e Machine Learning
 🐍 Análise de Dados com Python
